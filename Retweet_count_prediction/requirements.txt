@@ -36,7 +36,7 @@ subprocess32==3.5.3
 tqdm==4.30.0
 Unidecode==1.0.23
 unity-lens-photos==1.0
-urllib3==1.24.1
+urllib3==1.26.5
 virtualenv==15.0.1
 Werkzeug==0.14.1
 xlrd==1.2.0
